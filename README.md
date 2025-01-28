@@ -1,4 +1,4 @@
-# Amazon-EC2-e-Armazenamento-EBS-
+# Amazon EC2 e Armazenamento EBS
 
 
 ## 🎯 Objetivo
