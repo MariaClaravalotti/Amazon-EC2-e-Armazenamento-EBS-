@@ -44,8 +44,7 @@ Melhoria na organização e gestão dos recursos na nuvem.
 Documente e teste todas as configurações para garantir que estejam alinhadas às necessidades do ambiente. Além disso, snapshots frequentes são essenciais para prevenir perdas de dados!
 ![LAB2](https://github.com/user-attachments/assets/2483fcf0-d247-4911-8901-1e81400a4b96)
 ![Lab2passo2](https://github.com/user-attachments/assets/7ba22ac1-4bbc-4619-b5fe-1710eed3ab91)
-![Imagem do WhatsApp de 2025-01-28 à(s) 12 36 36_2f4785d9](https://github.com/user-attachments/assets/61d134b4-71ad-4c7b-85dd-c0dd47ec1ffc)
-![Imagem do WhatsApp de 2025-01-28 à(s) 12 43 57_09e342b7](https://github.com/user-attachments/assets/37e38e44-71e9-48a3-aee0-c50875651dd0)
+![Imagem do WhatsApp de 2025-01-28 à(s) 12 49 48_e0ab83ae](https://github.com/user-attachments/assets/60b74893-5674-49c1-9fb7-e1f8141b2031)
 ![LAB2passo11](https://github.com/user-attachments/assets/9aebf100-d00a-43ed-83fa-7dbd35e5e16e)
 
 
